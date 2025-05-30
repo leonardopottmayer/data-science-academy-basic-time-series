@@ -1,1 +1,1 @@
-# data-science-academy-basic-temporal-series
+# data-science-academy-basic-time-series
