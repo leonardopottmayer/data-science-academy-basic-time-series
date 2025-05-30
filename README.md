@@ -1,1 +1,1 @@
-# data-science-academy-basic-time-series
+# data-science-academy-time-series-exponential-smoothing
